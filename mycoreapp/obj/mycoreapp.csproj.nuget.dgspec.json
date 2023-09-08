@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj": {}
+    "/Users/ichr/Desktop/mycoreapp/mycoreapp/mycoreapp.csproj": {}
   },
   "projects": {
-    "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj": {
+    "/Users/ichr/Desktop/mycoreapp/mycoreapp/mycoreapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj",
+        "projectUniqueName": "/Users/ichr/Desktop/mycoreapp/mycoreapp/mycoreapp.csproj",
         "projectName": "mycoreapp",
-        "projectPath": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj",
-        "packagesPath": "/Users/sangamdeuja/.nuget/packages/",
-        "outputPath": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/obj/",
+        "projectPath": "/Users/ichr/Desktop/mycoreapp/mycoreapp/mycoreapp.csproj",
+        "packagesPath": "/Users/ichr/.nuget/packages/",
+        "outputPath": "/Users/ichr/Desktop/mycoreapp/mycoreapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sangamdeuja/.nuget/NuGet/NuGet.Config"
+          "/Users/ichr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

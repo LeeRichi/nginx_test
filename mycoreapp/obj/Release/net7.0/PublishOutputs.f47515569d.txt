@@ -1,0 +1,7 @@
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/mycoreapp
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/appsettings.json
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/mycoreapp.dll
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/mycoreapp.deps.json
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/mycoreapp.runtimeconfig.json
+/Users/ichr/Desktop/mycoreapp/mycoreapp/bin/Release/net7.0/publish/mycoreapp.pdb

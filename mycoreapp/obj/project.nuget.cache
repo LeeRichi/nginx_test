@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qTmKSSQMfX3v6jYmV+KaDOTVIsf0Ccw5ert6WXAz/mPMhLnHsdQc+m9cvOVFetun8Cqc8cP4UH8xccWS4TddQ==",
+  "dgSpecHash": "rTkajBSdaP5M82fvZNAWlKk2CMYjk8LeEEYhfDnlOuSfAHg9JUECxdDaFedn2W6xwVOUnm6VHABpMjUJdx/c5g==",
   "success": true,
-  "projectFilePath": "/Users/sangamdeuja/Desktop/azure/some/mycoreapp/mycoreapp/mycoreapp.csproj",
+  "projectFilePath": "/Users/ichr/Desktop/mycoreapp/mycoreapp/mycoreapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
